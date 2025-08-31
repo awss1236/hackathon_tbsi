@@ -12,7 +12,7 @@ el rules nta3 hackathon: https://seneca-center-hacks.devpost.com/rules
 - Evolution from Traditional NLP Models to State-of-the-Art LLMs: https://medium.com/@noorfatimaafzalbutt/evolution-from-traditional-nlp-models-to-state-of-the-art-llms-00cef9829a65
 - What is NLP (natural language processing)? IBM: https://www.ibm.com/think/topics/natural-language-processing
 - Deep Learning for NLP with Pytorch: https://docs.pytorch.org/tutorials/beginner/nlp/index.html
-- Natural Language Processing (NLP) Tutorial GfG: https://docs.pytorch.org/tutorials/beginner/nlp/index.html
+- Natural Language Processing (NLP) Tutorial GfG: https://www.geeksforgeeks.org/nlp/natural-language-processing-nlp-tutorial/
 
 
 
